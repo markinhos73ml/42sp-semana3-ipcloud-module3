@@ -1,0 +1,1 @@
+arn:aws:s3:::42sp-marcosf2-bucket

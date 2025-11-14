@@ -1,0 +1,8 @@
+total 24
+drwxr-xr-x  2 marcosf2 candidate 4096 Nov 12 13:04 .
+drwxr-xr-x 12 marcosf2 candidate 4096 Nov 12 11:28 ..
+-rw-r--r--  1 marcosf2 candidate  393 Nov 12 13:01 download_object.sh
+-rw-r--r--  1 marcosf2 candidate  210 Nov 12 13:01 list_objects.sh
+-rw-r--r--  1 marcosf2 candidate  300 Nov 12 13:02 remove_object.sh
+-rw-r--r--  1 marcosf2 candidate    0 Nov 12 13:04 teste.txt
+-rw-r--r--  1 marcosf2 candidate  361 Nov 12 13:00 upload_object.sh
